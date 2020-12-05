@@ -6,3 +6,19 @@ All numbered folders can be run as follows:
 yarn install
 yarn start <inputfile>
 ```
+
+## Finished puzzles
+
+| Day | Part 1 | Part 2 |
+|-----|--------|--------|
+| 1   | ✔️      | ➖      |
+| 2   | ✔️      | ➖      |
+| 3   | ✔️      | ➖      |
+| 4   | ✔️      | ➖      |
+| 5   | ✔️      | ✔️      |
+
+✔️ finished
+
+➖ not started
+
+✖️ not finished
