@@ -16,6 +16,7 @@ yarn start <inputfile>
 | 3   | ✔️      | ➖      |
 | 4   | ✔️      | ➖      |
 | 5   | ✔️      | ✔️      |
+| 6   | ✔️      | ➖      |
 
 ✔️ finished
 
