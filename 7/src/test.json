@@ -1,0 +1,97 @@
+[
+  {
+    "id": "light red",
+    "contains": [
+      {
+        "id": "bright white",
+        "count": 1
+      },
+      {
+        "id": "muted yellow",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "dark orange",
+    "contains": [
+      {
+        "id": "bright white",
+        "count": 3
+      },
+      {
+        "id": "muted yellow",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "bright white",
+    "contains": [
+      {
+        "id": "shiny gold",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "muted yellow",
+    "contains": [
+      {
+        "id": "shiny gold",
+        "count": 2
+      },
+      {
+        "id": "faded blue",
+        "count": 9
+      }
+    ]
+  },
+  {
+    "id": "shiny gold",
+    "contains": [
+      {
+        "id": "dark olive",
+        "count": 1
+      },
+      {
+        "id": "vibrant plum",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "dark olive",
+    "contains": [
+      {
+        "id": "faded blue",
+        "count": 3
+      },
+      {
+        "id": "dotted black",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "id": "vibrant plum",
+    "contains": [
+      {
+        "id": "faded blue",
+        "count": 5
+      },
+      {
+        "id": "dotted black",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": "faded blue",
+    "contains": []
+  },
+  {
+    "id": "dotted black",
+    "contains": []
+  }
+]
